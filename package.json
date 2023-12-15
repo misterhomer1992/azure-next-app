@@ -14,8 +14,7 @@
 		"next": "14.0.4"
 	},
 	"engines": {
-		"node": ">=20.10.0",
-		"npm": ">=10.2.3"
+		"node": ">=20.9.0"
 	},
 	"devDependencies": {
 		"typescript": "^5",
